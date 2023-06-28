@@ -1,0 +1,7 @@
+{
+    "go.testFlags": ["-v"],
+    "[go]": {
+        "editor.tabSize": 4,
+        "editor.semanticHighlighting.enabled": true
+    }
+}
